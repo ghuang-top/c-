@@ -60,5 +60,3 @@ nav:  # 定义导航栏
   - Home: 
     - Home: index.md  # 首页链接
     - Install c++: Install c++.md
-    - 11223
-   
